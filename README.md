@@ -37,3 +37,11 @@ Generate constraints and solve separately:
 ```
 
 See `./build/linguaarray --help` for all options.
+
+## Benchmarks
+
+The [benchmark list](testsets_non_incremental/max_400/combined/testset_all_a.json) contains 1,015 non-incremental instances: ABV (400), ABVFP (60), ABVFPLRA (77), ALIA (400), and ANIA (78). [Per-theory lists](testsets_non_incremental/max_400/per_theory) are also available.
+
+## License
+
+Released under the [MIT License](LICENSE).

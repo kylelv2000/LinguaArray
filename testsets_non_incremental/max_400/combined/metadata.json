@@ -1,0 +1,39 @@
+{
+  "theories": [
+    "ABV",
+    "ABVFP",
+    "ABVFPLRA",
+    "ALIA",
+    "ANIA"
+  ],
+  "theory_details": {
+    "ABV": {
+      "total": 4975,
+      "sampled": 400,
+      "testset_file": "testset_abv.json"
+    },
+    "ABVFP": {
+      "total": 60,
+      "sampled": 60,
+      "testset_file": "testset_abvfp.json"
+    },
+    "ABVFPLRA": {
+      "total": 77,
+      "sampled": 77,
+      "testset_file": "testset_abvfplra.json"
+    },
+    "ALIA": {
+      "total": 3098,
+      "sampled": 400,
+      "testset_file": "testset_alia.json"
+    },
+    "ANIA": {
+      "total": 78,
+      "sampled": 78,
+      "testset_file": "testset_ania.json"
+    }
+  },
+  "summary": {
+    "total": 1015
+  }
+}
